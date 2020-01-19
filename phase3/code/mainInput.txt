@@ -1,0 +1,26 @@
+class Program{
+    int var, integerId = 4;
+    static void _main(){
+        var = -23 - 22;
+        print("N
+        Sanity.");
+    }
+    // Comment.
+    bool boolean(){
+        if(var < 8 && 32 - var > var_2){
+            var = var | (integerId - 2);
+            var = var & 0b10010010;
+            while(true){
+                var = 3;
+                break;
+            }
+        }elseif( var > 8 ){
+        ;
+        }
+        else ;
+    }
+    real _func(int i, int j){
+        return i % j * 3.52 ;
+    }
+
+}

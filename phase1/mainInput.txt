@@ -1,0 +1,29 @@
+class Program{
+	int my_v_ar, integerId = 4;
+	static void _main(){
+		my_v_ar = -23 - 22;
+		print("N
+		Sanity.");
+		for(integerId in 0 to 100 steps 10){
+			my_v_ar = integerId << 2;
+		}
+	}
+	// 2nd function 
+	bool _TorF(){
+		real var_2 = 0.14;
+		if(my_v_ar < 8 && 32 - my_v_ar > var_2){
+			my_v_ar = my_v_ar | (integerId - 2);
+			my_v_ar = my_v_ar & 0b10010010;
+		}else if(var_2 != 0.0){
+			while(true){
+				var = 3;
+				break;
+			}
+			return true;
+		}
+		return false;
+	}
+	real _func(int i, int j){
+		return i % j * 3.52;
+	}
+}

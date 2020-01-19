@@ -1,0 +1,20 @@
+class Program{
+	static void _main(){
+		int grade;
+		grade = 12;
+		if(grade > 16){
+      _rating = 4;
+      a = 7;
+      b = 6;
+    }
+    elseif(grade > 14){
+        a = 9;
+        b = 10;
+    }
+    elseif(grade > 12){
+        b = 60;
+        c = 7;
+    }
+	}
+	
+}

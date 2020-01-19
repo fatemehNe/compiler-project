@@ -1,0 +1,41 @@
+class Program{
+	static void _main(){
+		int max;
+		int num;
+		int counter;
+
+		counter = 0;
+		num = 2;
+
+		max = 10;
+
+		while(counter != max){
+			int found;
+
+			found = 0;
+
+			for(i in 2 to num - 1 steps 1){
+				int q;
+				int r;
+
+				q = 0;
+				r = 0;
+
+				while(q * i < num)
+					q = q + 1;
+
+				if(num == q * i){
+					i = num;
+					found = 1;
+				}
+			}
+
+			if(found == 0){
+				print("{num}");
+				counter = counter + 1;
+			}
+
+			num = num + 1;
+		}
+	}
+}

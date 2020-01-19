@@ -1,0 +1,238 @@
+Lexeme: 	class 	 Token: 	CLASS	 Attribute: 	-
+
+Lexeme: 	Program	 Token: 	ID	 Attribute: 	0
+
+Lexeme: 	{	 Token: 	LCB	 Attribute: 	-
+
+Lexeme: 	int 	 Token: 	INT_TYPE	 Attribute: 	-
+
+Lexeme: 	var	 Token: 	ID	 Attribute: 	1
+
+Lexeme: 	,	 Token: 	COMMA	 Attribute: 	-
+
+Lexeme: 	integerId	 Token: 	ID	 Attribute: 	2
+
+Lexeme: 	=	 Token: 	ASSIGNMENT	 Attribute: 	-
+
+Lexeme: 	4	 Token: 	INTEGER	 Attribute: 	4
+
+Lexeme: 	;	 Token: 	SEMICOLON	 Attribute: 	-
+
+Lexeme: 	static 	 Token: 	STATIC	 Attribute: 	-
+
+Lexeme: 	void	 Token: 	VOID	 Attribute: 	-
+
+Lexeme: 	_main	 Token: 	ID	 Attribute: 	3
+
+Lexeme: 	(	 Token: 	LP	 Attribute: 	-
+
+Lexeme: 	)	 Token: 	RP	 Attribute: 	-
+
+Lexeme: 	{	 Token: 	LCB	 Attribute: 	-
+
+Lexeme: 	var	 Token: 	ID	 Attribute: 	1
+
+Lexeme: 	=	 Token: 	ASSIGNMENT	 Attribute: 	-
+
+Lexeme: 	-	 Token: 	SUBTRACTION	 Attribute: 	-
+
+Lexeme: 	23	 Token: 	INTEGER	 Attribute: 	23
+
+Lexeme: 	-	 Token: 	SUBTRACTION	 Attribute: 	-
+
+Lexeme: 	22	 Token: 	INTEGER	 Attribute: 	22
+
+Lexeme: 	;	 Token: 	SEMICOLON	 Attribute: 	-
+
+Lexeme: 	print	 Token: 	PRINT	 Attribute: 	-
+
+Lexeme: 	(	 Token: 	LP	 Attribute: 	-
+
+Lexeme: 	"N
+        Sanity."	 Token: 	STRING	 Attribute: 	"N
+        Sanity."
+
+Lexeme: 	)	 Token: 	RP	 Attribute: 	-
+
+Lexeme: 	;	 Token: 	SEMICOLON	 Attribute: 	-
+
+Lexeme: 	}	 Token: 	RCB	 Attribute: 	-
+
+***COMMENT*** Lexeme: 	// Comment.	 Token: 	-	 Attribute: 	-
+
+Lexeme: 	bool 	 Token: 	BOOL_TYPE	 Attribute: 	-
+
+Lexeme: 	boolean	 Token: 	ID	 Attribute: 	4
+
+Lexeme: 	(	 Token: 	LP	 Attribute: 	-
+
+Lexeme: 	)	 Token: 	RP	 Attribute: 	-
+
+Lexeme: 	{	 Token: 	LCB	 Attribute: 	-
+
+Lexeme: 	if	 Token: 	IF	 Attribute: 	-
+
+Lexeme: 	(	 Token: 	LP	 Attribute: 	-
+
+Lexeme: 	var	 Token: 	ID	 Attribute: 	1
+
+Lexeme: 	<	 Token: 	LT	 Attribute: 	-
+
+Lexeme: 	8	 Token: 	INTEGER	 Attribute: 	8
+
+Lexeme: 	&&	 Token: 	AND	 Attribute: 	-
+
+Lexeme: 	32	 Token: 	INTEGER	 Attribute: 	32
+
+Lexeme: 	-	 Token: 	SUBTRACTION	 Attribute: 	-
+
+Lexeme: 	var	 Token: 	ID	 Attribute: 	1
+
+Lexeme: 	>	 Token: 	GT	 Attribute: 	-
+
+Lexeme: 	var_2	 Token: 	ID	 Attribute: 	5
+
+Lexeme: 	)	 Token: 	RP	 Attribute: 	-
+
+Lexeme: 	{	 Token: 	LCB	 Attribute: 	-
+
+Lexeme: 	var	 Token: 	ID	 Attribute: 	1
+
+Lexeme: 	=	 Token: 	ASSIGNMENT	 Attribute: 	-
+
+Lexeme: 	var	 Token: 	ID	 Attribute: 	1
+
+Lexeme: 	|	 Token: 	BITWISE_OR	 Attribute: 	-
+
+Lexeme: 	(	 Token: 	LP	 Attribute: 	-
+
+Lexeme: 	integerId	 Token: 	ID	 Attribute: 	2
+
+Lexeme: 	-	 Token: 	SUBTRACTION	 Attribute: 	-
+
+Lexeme: 	2	 Token: 	INTEGER	 Attribute: 	2
+
+Lexeme: 	)	 Token: 	RP	 Attribute: 	-
+
+Lexeme: 	;	 Token: 	SEMICOLON	 Attribute: 	-
+
+Lexeme: 	var	 Token: 	ID	 Attribute: 	1
+
+Lexeme: 	=	 Token: 	ASSIGNMENT	 Attribute: 	-
+
+Lexeme: 	var	 Token: 	ID	 Attribute: 	1
+
+Lexeme: 	&	 Token: 	BITWISE_AND	 Attribute: 	-
+
+Lexeme: 	0b10010010	 Token: 	INTEGER	 Attribute: 	146
+
+Lexeme: 	;	 Token: 	SEMICOLON	 Attribute: 	-
+
+Lexeme: 	while	 Token: 	WHILE	 Attribute: 	-
+
+Lexeme: 	(	 Token: 	LP	 Attribute: 	-
+
+Lexeme: 	true	 Token: 	TRUE	 Attribute: 	-
+
+Lexeme: 	)	 Token: 	RP	 Attribute: 	-
+
+Lexeme: 	{	 Token: 	LCB	 Attribute: 	-
+
+Lexeme: 	var	 Token: 	ID	 Attribute: 	1
+
+Lexeme: 	=	 Token: 	ASSIGNMENT	 Attribute: 	-
+
+Lexeme: 	3	 Token: 	INTEGER	 Attribute: 	3
+
+Lexeme: 	;	 Token: 	SEMICOLON	 Attribute: 	-
+
+Lexeme: 	break	 Token: 	BREAK	 Attribute: 	-
+
+Lexeme: 	;	 Token: 	SEMICOLON	 Attribute: 	-
+
+Lexeme: 	}	 Token: 	RCB	 Attribute: 	-
+
+Lexeme: 	}	 Token: 	RCB	 Attribute: 	-
+
+Lexeme: 	elseif	 Token: 	ELSEIF	 Attribute: 	-
+
+Lexeme: 	(	 Token: 	LP	 Attribute: 	-
+
+Lexeme: 	var	 Token: 	ID	 Attribute: 	1
+
+Lexeme: 	>	 Token: 	GT	 Attribute: 	-
+
+Lexeme: 	8	 Token: 	INTEGER	 Attribute: 	8
+
+Lexeme: 	)	 Token: 	RP	 Attribute: 	-
+
+Lexeme: 	{	 Token: 	LCB	 Attribute: 	-
+
+Lexeme: 	;	 Token: 	SEMICOLON	 Attribute: 	-
+
+Lexeme: 	}	 Token: 	RCB	 Attribute: 	-
+
+Lexeme: 	else	 Token: 	ELSE	 Attribute: 	-
+
+Lexeme: 	;	 Token: 	SEMICOLON	 Attribute: 	-
+
+Lexeme: 	}	 Token: 	RCB	 Attribute: 	-
+
+Lexeme: 	real 	 Token: 	REAL_TYPE	 Attribute: 	-
+
+Lexeme: 	_func	 Token: 	ID	 Attribute: 	6
+
+Lexeme: 	(	 Token: 	LP	 Attribute: 	-
+
+Lexeme: 	int 	 Token: 	INT_TYPE	 Attribute: 	-
+
+Lexeme: 	i	 Token: 	ID	 Attribute: 	7
+
+Lexeme: 	,	 Token: 	COMMA	 Attribute: 	-
+
+Lexeme: 	int 	 Token: 	INT_TYPE	 Attribute: 	-
+
+Lexeme: 	j	 Token: 	ID	 Attribute: 	8
+
+Lexeme: 	)	 Token: 	RP	 Attribute: 	-
+
+Lexeme: 	{	 Token: 	LCB	 Attribute: 	-
+
+Lexeme: 	return 	 Token: 	RETURN	 Attribute: 	-
+
+Lexeme: 	i	 Token: 	ID	 Attribute: 	7
+
+Lexeme: 	%	 Token: 	MODULO	 Attribute: 	-
+
+Lexeme: 	j	 Token: 	ID	 Attribute: 	8
+
+Lexeme: 	*	 Token: 	MULTIPLICATION	 Attribute: 	-
+
+Lexeme: 	3.52	 Token: 	REAL	 Attribute: 	-
+
+Lexeme: 	;	 Token: 	SEMICOLON	 Attribute: 	-
+
+Lexeme: 	}	 Token: 	RCB	 Attribute: 	-
+
+Lexeme: 	}	 Token: 	RCB	 Attribute: 	-
+
+THIS IS SYMBOL TABLE 
+
+Program	0
+
+var	1
+
+integerId	2
+
+_main	3
+
+boolean	4
+
+var_2	5
+
+_func	6
+
+i	7
+
+j	8
+
